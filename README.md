@@ -6,7 +6,7 @@
 
 
 ## Find me on
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3esLCt85REvdYe1L2L3519&ust=1617799835018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODexJjU6e8CFQAAAAAdAAAAABAD">Ha</a>
+<a href=" https://twitter.com/Martin_Heinz_">Ha</a>
 
 
 - 🔭 I’m currently working on ...
