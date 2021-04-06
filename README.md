@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hola! I'm Vinay 👋
 
 <!--
 **vinayyy031/vinayyy031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Currently Learning:
+
+
+## Reach me:
+<a href="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=search">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
