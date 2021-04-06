@@ -28,10 +28,8 @@ Passionate about Technology.
   <a href="https://linkedin.com/in/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinayyy031" height="30" width="30" /></a> &nbsp;&nbsp;
   <a href="https://instagram.com/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vinayyy031" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinayyy031" height="30" width="30" /></a> &nbsp;&nbsp;
-	
-	<br>
-<a href="mailto:vinay.unision@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="vinay.unision@gmail.com" height="30" width="30" /></a>
-	
+<a href="mailto:vinay.unision@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="vinay.unision@gmail.com" height="30" width="30" /></a></p>
+<p>	
 	
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vinayyy031&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vinay's Stats" />
 </p>
