@@ -5,8 +5,8 @@
 ## Currently Learning:
 
 
-## Reach me:
-<a href="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=search">Ha</a>
+## Find me on
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3esLCt85REvdYe1L2L3519&ust=1617799835018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODexJjU6e8CFQAAAAAdAAAAABAD">Ha</a>
 
 
 - 🔭 I’m currently working on ...
