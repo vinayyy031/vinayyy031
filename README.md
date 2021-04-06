@@ -1,7 +1,6 @@
 ### Hola! I'm Vinay 👋
 
-<!--
-**vinayyy031/vinayyy031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## Currently Learning:
 
