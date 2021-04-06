@@ -6,7 +6,10 @@ Passionate about Technology.
 - 😄 Pronouns: He/His
 
 ## Find me on
- <a href="https://www.linkedin.com/in/vinayyy031/"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
- <a href="https://twitter.com/vinayyy031"><img src="https://img.shields.io/badge/Sanchit Pasricha-%230077B5.svg?&style=for-the-badge&logo=Twitter&logoColor=white" ></a> 
- <a href="mailto:vinay.unision@gmail.com"><img src="https://img.shields.io/badge/sanchit0229@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a  href="https://www.instagram.com/vinayyy031/"><img src="https://img.shields.io/badge/@p.sanchit_pvt.exe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 
+ <p align="left">
+  <a href="https://linkedin.com/in/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="20" width="20" /></a> &nbsp;&nbsp;
+  <a href="https://instagram.com/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vinayyy031" height="20" width="20" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/vinayyy031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinayyy031" height="20" width="20" /></a> &nbsp;&nbsp;
+<a href="mailto:vinay.unision@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="vinay.unision@gmail.com" height="20" width="20" /></a>
+</p>
