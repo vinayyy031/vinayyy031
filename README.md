@@ -18,8 +18,8 @@ Passionate about Technology.
 
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "30">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="31">	
-<img src= "![image](https://user-images.githubusercontent.com/76480497/188315205-82bccc34-0e27-4ef3-9e83-2d6a4093c476.png)
-" width="31" height="20">
+<img src= "https://user-images.githubusercontent.com/76480497/188315205-82bccc34-0e27-4ef3-9e83-2d6a4093c476.png
+" width="31">
 	
 </p>
 
