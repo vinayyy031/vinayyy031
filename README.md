@@ -2,7 +2,7 @@
 
 Passionate about Technology. 
 - 🔭 I’m currently working on some Static Websites
-- 🌱 I’m currently learning Data Structures and Algorithm in C
+- 🌱 I’m currently learning Data Structures and Algorithm in C++
 - 😄 Pronouns: He/His
 
 
@@ -15,11 +15,9 @@ Passionate about Technology.
 <img src = "https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" width = "30">
 <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "30">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "22" height="26">
-
 <img src = "https://i2.wp.com/blogs.perficient.com/files/2015/09/Azure-SQL-Database.png?fit=512%2C512&ssl=1" width = "30">
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="31">	
-<img src= "https://user-images.githubusercontent.com/76480497/188315205-82bccc34-0e27-4ef3-9e83-2d6a4093c476.png
-" width="31">
+<img src= "https://user-images.githubusercontent.com/76480497/188315205-82bccc34-0e27-4ef3-9e83-2d6a4093c476.png" width="31">
 	
 </p>
 
